@@ -1,0 +1,25 @@
+{
+  "short_name": "Chat App",
+  "name": "Chat App by Khaja",
+  "icons": [
+    {
+      "src": "chat-voice-fill.png",
+      "sizes": "48x48",
+      "type": "image/png"
+    },
+    {
+      "src": "chat-voice-fill.png",
+      "type": "image/png",
+      "sizes": "48x48"
+    },
+    {
+      "src": "chat-voice-fill.png",
+      "type": "image/png",
+      "sizes": "48x48"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
